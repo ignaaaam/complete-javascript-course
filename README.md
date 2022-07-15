@@ -1,3 +1,3 @@
 # Complete JavaScript Course
 
-This repo contains starter files and final code for all sections and projects contained in the course.
+This repo contains starter files and final code for all sections and projects contained in the course. I took this course to refresh basic javascript knowledge that maybe i tought I already knew but needed to be improved & also to learn/master the advanced concepts of javascript (since lately I was more focused on PHP than JS and now I'm more focused on learning JS + React for the future)
